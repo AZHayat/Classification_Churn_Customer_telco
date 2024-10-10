@@ -1,4 +1,4 @@
-# 📊 DQLab Telco - Customer Churn Prediction Project
+# 📊 Customer Churn Prediction Project
 ## 📫 Contact
 If you have any questions or want to collaborate, feel free to reach out! LinkedIn: https://www.linkedin.com/in/ahmad-zaenal-hayat/ Email: a.zaenalhayat@gmail.com
 
