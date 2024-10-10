@@ -70,24 +70,43 @@ The dataset used for this analysis contains customer subscription information fr
 It includes various attributes related to customer demographics, subscription details, and churn status. Key features in the dataset include:
 
 customerID: Unique identifier for each customer
-gender: Gender of the customer (Male/Female)
-SeniorCitizen: Indicates whether the customer is a senior citizen (1 = Yes, 0 = No)
-Partner: Indicates whether the customer has a partner (Yes/No)
-Dependents: Indicates whether the customer has dependents (Yes/No)
-tenure: Number of months the customer has been with the company
-PhoneService: Indicates if the customer has a phone service (Yes/No)
-MultipleLines: Indicates if the customer has multiple lines (Yes/No)
-InternetService: Type of internet service (DSL/Fiber optic/No)
-OnlineSecurity: Indicates if the customer has online security (Yes/No)
-OnlineBackup: Indicates if the customer has online backup (Yes/No)
-DeviceProtection: Indicates if the customer has device protection (Yes/No)
-TechSupport: Indicates if the customer has tech support (Yes/No)
-StreamingTV: Indicates if the customer has streaming TV service (Yes/No)
-StreamingMovies: Indicates if the customer has streaming movies service (Yes/No)
-Contract: Type of contract (Month-to-month/One year/Two year)
-PaperlessBilling: Indicates if the customer uses paperless billing (Yes/No)
-PaymentMethod: Payment method used (e.g., Credit card, Bank transfer)
-MonthlyCharges: Amount charged to the customer each month
-TotalCharges: Total amount charged to the customer
-Churn: Indicates whether the customer has churned (Yes/No)
 
+gender: Gender of the customer (Male/Female)
+
+SeniorCitizen: Indicates whether the customer is a senior citizen (1 = Yes, 0 = No)
+
+Partner: Indicates whether the customer has a partner (Yes/No)
+
+Dependents: Indicates whether the customer has dependents (Yes/No)
+
+tenure: Number of months the customer has been with the company
+
+PhoneService: Indicates if the customer has a phone service (Yes/No)
+
+MultipleLines: Indicates if the customer has multiple lines (Yes/No)
+
+InternetService: Type of internet service (DSL/Fiber optic/No)
+
+OnlineSecurity: Indicates if the customer has online security (Yes/No)
+
+OnlineBackup: Indicates if the customer has online backup (Yes/No)
+
+DeviceProtection: Indicates if the customer has device protection (Yes/No)
+
+TechSupport: Indicates if the customer has tech support (Yes/No)
+
+StreamingTV: Indicates if the customer has streaming TV service (Yes/No)
+
+StreamingMovies: Indicates if the customer has streaming movies service (Yes/No)
+
+Contract: Type of contract (Month-to-month/One year/Two year)
+
+PaperlessBilling: Indicates if the customer uses paperless billing (Yes/No)
+
+PaymentMethod: Payment method used (e.g., Credit card, Bank transfer)
+
+MonthlyCharges: Amount charged to the customer each month
+
+TotalCharges: Total amount charged to the customer
+
+Churn: Indicates whether the customer has churned (Yes/No)
